@@ -1,0 +1,5 @@
+package firstpak
+
+func Test() {
+
+}

@@ -1,0 +1,5 @@
+package secondpack
+
+func SecondTest() {
+
+}
